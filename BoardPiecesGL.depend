@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1777185777 source:e:\opengl\boardpiecesgl\main.cpp
+	<windows.h>
+	<GL/gl.h>
+	<Gl/glut.h>
+	<cmath>
+	<cstdlib>
+
